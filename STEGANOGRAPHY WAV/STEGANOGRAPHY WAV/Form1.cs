@@ -15,5 +15,10 @@ namespace STEGANOGRAPHY_WAV
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
