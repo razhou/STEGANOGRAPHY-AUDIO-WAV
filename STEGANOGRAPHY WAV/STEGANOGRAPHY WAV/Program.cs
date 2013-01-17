@@ -15,7 +15,7 @@ namespace STEGANOGRAPHY_WAV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmStegano());
         }
     }
 }
